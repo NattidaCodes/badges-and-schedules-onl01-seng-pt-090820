@@ -5,8 +5,8 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(attendees)
-  binding.pry 
   badge_names = []
-  attendees.each do |name|
+  attendees.each do |person|
+    binding.pry
   end
 end
