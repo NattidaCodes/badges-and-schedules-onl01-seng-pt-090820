@@ -18,3 +18,5 @@ end
 #     badge_maker(person)
 #   end
 # end
+
+def assign_rooms 
