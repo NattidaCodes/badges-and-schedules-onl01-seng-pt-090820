@@ -11,3 +11,10 @@ def batch_badge_creator(attendees)
   end
   badge_names
 end
+
+# Easier way
+# def batch_badge_creator(attendees)
+#   attendees.map do |person|
+#     badge_maker(person)
+#   end
+# end
